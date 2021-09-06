@@ -1,5 +1,3 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://discord.gg/9kfyVc2dch">
   <img align="left" alt="Mohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -15,16 +13,21 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
 
-<br />
 
-hi, i'm [Mohit Kumar](https://iammohit.me/), a passionate self-taught full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+ ### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Mohit](https://iammohit.me/),
+ 
+⭐ An upcoming 🎓 graduate in BBA(CA) from 🏫 Sinhgad Institutes, Pune, Maharastra, India.
+ 
+⭐ And a passionate self-taught upcomming full stack web developer from india.
 
-i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+⭐ I believe in practical knowledge rather than roaming around books.
+
+⭐ I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="Mohit-Readme\code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:mohitpandey23november@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+⭐ Feel free to connect at : [email](mailto:mohitpandey23november@gmail.com)
+⭐ Would be happy to respond.😊
 
 **languages and tools:**
 
