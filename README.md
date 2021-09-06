@@ -14,7 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
 
 
- ### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Mohit](https://iammohit.me/),
+ ### Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> I'm [Mohit](https://iammohit.me/),
  
 ⭐ An upcoming 🎓 graduate in BBA(CA) from 🏫 Sinhgad Institutes, Pune, Maharastra, India.
  
