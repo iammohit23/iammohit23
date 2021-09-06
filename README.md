@@ -26,7 +26,8 @@
 
   <img align="right" alt="GIF" src="Mohit-Readme\code.gif" width="500" height="320" />
   
-⭐ Feel free to connect at : [email](mailto:mohitpandey23november@gmail.com)
+⭐ Feel free to connect at : [email](mailto:mohitpandey23november@gmail.com)</br>
+
 ⭐ Would be happy to respond.😊
 
 **languages and tools:**
