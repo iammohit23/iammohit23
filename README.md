@@ -18,7 +18,7 @@
  
 ⭐ An upcoming 🎓 graduate in BBA(CA) from 🏫 Sinhgad Institutes, Pune, Maharastra, India.
  
-⭐ And a passionate self-taught upcomming full stack web developer from india.
+⭐ And a passionate self-taught upcoming full stack web developer from india.
 
 ⭐ I believe in practical knowledge rather than roaming around books.
 
