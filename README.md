@@ -47,14 +47,15 @@
 
 ⭐ If you like what i do, maybe consider buying me a coffee.
 
+⭐ If you like my open source projects then </br>
+    Nominate me to the Github Stars by clicking the link below 
+    <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ✨</a><br>
+⭐ And ya this portion will be updated soon so stay tuned.
 😊
 
 <a href="https://www.buymeacoffee.com/iammohit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br>
-<br>
-<br>
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamMohit23&show_icons=true&theme=gotham" alt="iamMohit23" />
