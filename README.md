@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/iammohit23/">
   <img align="left" alt="Mohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31p32ekh2hjm6abmdmvezpyqmqum">
-  <img align="left" alt="Mohit's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
 
