@@ -23,7 +23,7 @@
 
   <img align="right" alt="GIF" src="Mohit-Readme\code.gif" width="500" height="320" />
   
-⭐ Feel free to connect at [email](mail to: iammohitpandey1@gmail.com)</br>
+⭐ Feel free to connect at [email](mailto:iammohitpandey1@gmail.com)</br>
 
 ⭐ Message me at [whatsapp](https://wa.me/917258883148)
 
