@@ -39,7 +39,7 @@
   </a>
   
    <a href="https://www.codechef.com/users/iammohit23" target="blank">
-    <img src="https://img.icons8.com/bubbles/512/codechef.png" width = "60px" alt="Mohit-Codechef" />
+    <img src="https://img.icons8.com/bubbles/512/codechef.png" width = "70px" alt="Mohit-Codechef" />
   </a>
   
    <a href="https://www.clubhouse.com/@iammohit23" target="blank">
