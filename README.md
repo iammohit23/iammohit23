@@ -1,3 +1,60 @@
+<a href="https://facebook.com/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width = "70px" alt="Mohit-Facebook" />
+  </a>
+  
+  <a href="https://twitter.com/iammohit_23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width = "70px" alt="Mohit-Twitter" />
+  </a>
+  
+  <a href="https://instagram.com/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width = "70px" alt="Mohit-Instagram" />
+  </a>
+  
+  <a href="https://snapchat.com/add/iammohit_23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/snapchat.png" width = "70px" alt="Mohit-Snapchat" />
+  </a>
+  
+  <a href="https://reddit.com/user/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/reddit.png" width = "70px" alt="Mohit-Reddit" />
+  </a>
+  
+  <a href="https://medium.com/@iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/medium-new.png" width = "70px" alt="Mohit-Medium" />
+  </a>
+  
+   <a href="https://in.pinterest.com/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" width = "70px" alt="Mohit-Pinterest" />
+  </a>
+  
+   <a href="https://github.com/Mohits-Org" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" width = "70px" alt="Mohit-Github" />
+  </a>
+  
+   <a href="https://www.youtube.com/@iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" width = "70px" alt="Mohit-Youtube" />
+  </a>
+  
+   <a href="https://www.quora.com/profile/Mohit-Pandey-223" target="blank">
+    <img src="https://iammohit23.netlify.app/images/quora.png" width = "70px" alt="Mohit-Quora" />
+  </a>
+  
+   <a href="https://www.codechef.com/users/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/512/codechef.png" width = "60px" alt="Mohit-Codechef" />
+  </a>
+  
+   <a href="https://www.clubhouse.com/@iammohit23" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/6122/6122838.png" width = "60px" alt="Mohit-Clubhouse" />
+  </a>
+  
+  
+  
+  
+  
+
+
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammohit23&theme=github)
