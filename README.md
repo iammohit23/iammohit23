@@ -29,6 +29,10 @@
    <a href="https://github.com/Mohits-Org" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" width = "70px" alt="Mohit-Github" />
   </a>
+
+   <a href="https://discord.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width = "70px" alt="Mohit-Discord" />
+  </a>
   
    <a href="https://www.youtube.com/@iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" width = "70px" alt="Mohit-Youtube" />
@@ -63,12 +67,6 @@
 
 <a href="https://discord.gg/9kfyVc2dch">
   <img align="left" alt="Mohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/iammohit_23">
-  <img align="left" alt="Mohit Kumar  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/iammohit23/">
-  <img align="left" alt="Mohit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
