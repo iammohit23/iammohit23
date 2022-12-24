@@ -26,15 +26,19 @@
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" width = "70px" alt="Mohit-Pinterest" />
   </a>
   
+   <a href="https://dribbble.com/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/2x/dribbble.png" width = "70px" alt="Mohit-Dribble" />
+  </a>
+  
    <a href="https://github.com/Mohits-Org" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" width = "70px" alt="Mohit-Github" />
   </a>
-
+    
    <a href="https://discord.com/channels/@me/1022418738395488349" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width = "70px" alt="Mohit-Discord" />
   </a>
   
-   <a href="https://www.youtube.com/@iammohit23" target="blank">
+  <a href="https://www.youtube.com/@iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" width = "70px" alt="Mohit-Youtube" />
   </a>
   
@@ -46,19 +50,42 @@
     <img src="https://img.icons8.com/bubbles/512/codechef.png" width = "70px" alt="Mohit-Codechef" />
   </a>
   
-   <a href="https://www.clubhouse.com/@iammohit23" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/6122/6122838.png" width = "60px" alt="Mohit-Clubhouse" />
+  <a href="https://iammohit23.netlify.app" target="blank">
+    <img src="https://iammohit23.netlify.app/images/portfolio2.png" width = "70px" alt="Mohit-Portfolio" />
   </a>
   
+   <a href="https://drive.google.com/file/d/1BzHskBp0l4FRVVcobzGjMoJJ1DVvZ0IP/view?usp=sharing" target="blank">
+    <img src="https://iammohit23.netlify.app/images/resume.png" width = "70px" alt="Mohit-Resume" />
+  </a>
   
+   <a href="https://www.hackerrank.com/iammohit23" target="blank">
+    <img src="https://iammohit23.netlify.app/images/hacker-rank.png" width = "70px" alt="Mohit-Hacker-rank" />
+  </a>
   
+   <a href="https://www.hackerearth.com/@iammohit23" target="Hacker-earth">
+    <img src="https://iammohit23.netlify.app/images/hacker-rank.png" width = "70px" alt="Mohit-Hacker-earth" />
+  </a>
   
+   <a href="https://www.clubhouse.com/@iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/512/group.png" width = "70px" alt="Mohit-Clubhouse" />
+  </a>
+   
+   <a href="https://stackoverflow.com/users/15100058/iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/512/stack.png" width = "70px" alt="Mohit-Stackoverflow" />
+  </a>
   
-
-
-
-
-
+  <a href="https://medium.com/@iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/2x/medium-new.png" width = "70px" alt="Mohit-Medium" />
+  </a>
+  
+   <a href="https://iammohit23.wordpress.com/" target="blank">
+    <img src="https://img.icons8.com/bubbles/512/ms-word.png" width = "70px" alt="Mohit-Wordpress" />
+  </a>
+  
+   <a href="https://hashnode.com/@iammohit23" target="blank">
+    <img src="https://img.icons8.com/bubbles/512/h.png" width = "70px" alt="Mohit-Hashnode" />
+  </a>
+   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammohit23&theme=github)
