@@ -10,6 +10,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width = "70px" alt="Mohit-Instagram" />
   </a>
   
+  <a href="https://www.kooapp.com/profile/iammohit23" target="blank">
+    <img src="https://www.kooapp.com/assets/2d634360.svg" width = "43px" alt="Mohit-Koo" />
+  </a>
+  
   <a href="https://snapchat.com/add/iammohit_23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/snapchat.png" width = "70px" alt="Mohit-Snapchat" />
   </a>
@@ -85,7 +89,11 @@
    <a href="https://hashnode.com/@iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/512/h.png" width = "70px" alt="Mohit-Hashnode" />
   </a>
-   
+  
+   <a href="https://t.me/iammohit_23" target="blank">
+    <img src="https://img.icons8.com/bubbles/2x/telegram-app.png" width = "70px" alt="Mohit-Telegram" />
+  </a>
+        
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammohit23&theme=github)
