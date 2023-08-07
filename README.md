@@ -96,10 +96,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iammohit23&theme=github&utcOffset=8)
 
-<a href="https://discord.gg/9kfyVc2dch">
-  <img align="left" alt="Mohit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
 
 
