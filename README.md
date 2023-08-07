@@ -105,7 +105,7 @@
 
   ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit](https://iammohit.me/), 
  
-⭐ A 🎓 graduated in BCA from Sinhgad Institutes, Pune, Maharastra, India.
+⭐ A graduated in BCA from Smt. Kashibai Navale College of Commerce, Pune, Maharastra, India.
  
 ⭐ And a passionate self-taught upcoming full stack web developer from india.
 
