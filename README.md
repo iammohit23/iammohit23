@@ -21,12 +21,8 @@
   <a href="https://reddit.com/user/iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/reddit.png" width = "70px" alt="Mohit-Reddit" />
   </a>
-  
-  <a href="https://medium.com/@iammohit23" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/medium-new.png" width = "70px" alt="Mohit-Medium" />
-  </a>
-  
-   <a href="https://in.pinterest.com/iammohit23" target="blank">
+
+  <a href="https://in.pinterest.com/iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" width = "70px" alt="Mohit-Pinterest" />
   </a>
   
