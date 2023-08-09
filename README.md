@@ -99,7 +99,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
 
 
-  ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit](https://iammohit.me/), 
+  ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit](#), 
  
 ⭐ A graduated in BCA from Smt. Kashibai Navale College of Commerce, Pune, Maharastra, India.
  
@@ -112,8 +112,6 @@
   <img align="right" alt="GIF" src="Mohit-Readme\code.gif" width="500" height="320" />
   
 ⭐ Feel free to connect at [email](mailto:iammohitpandey1@gmail.com)</br>
-
-⭐ Message me at [whatsapp](https://wa.me/917258883148)
 
 ⭐ Would be happy to respond.😊
 
@@ -129,18 +127,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-⭐ If you like what i do, maybe consider buying me a coffee.
-
 ⭐ If you like my open source projects then </br>
     Nominate me to the Github Stars by clicking the link below 
     <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ✨</a><br>
 ⭐ And ya this portion will be updated soon so stay tuned.
 😊
 
-<a href="https://www.buymeacoffee.com/iammohit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamMohit23&show_icons=true&theme=gotham" alt="iamMohit23" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammohit23&show_icons=true&theme=gotham" alt="iammohit23" />
 
