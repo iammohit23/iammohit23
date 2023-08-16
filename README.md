@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://www.kooapp.com/profile/iammohit23" target="blank">
-    <img src="https://www.kooapp.com/assets/2d634360.svg" width = "43px" alt="Mohit-Koo" />
+    <img src="https://www.kooapp.com/assets/2d634360.svg" width = "40px" alt="Mohit-Koo" />
   </a>
   
   <a href="https://snapchat.com/add/iammohit_23" target="blank">
@@ -117,18 +117,24 @@
 
 **languages and tools :**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupiter/jupiter.png"></code>
-<code><img height ="20" src = "https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height= "40" src= "https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter"></code>
+<code><img height= "40" src= "https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual-Studio-Code-2019"></code>
+<code><img height= "40" src= "https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"></code>
+<code><img height= "40" src= "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt = "Netlify"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt = "MySql"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/heroku.png" alt = "Heroku"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/git.png" alt = "Git"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/c-programming.png" alt = "C"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt = "HTML-5"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/css3.png" alt = "CSS-3"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt = "JavaScript"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt = "Bootstrap"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/npm.png" alt = "Npm"></code>
+<code><img height="40" src="https://img.icons8.com/fluency/48/azure-1.png" alt = "Azure"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/gitlab.png" alt = "Gitlab"></code>
+<code><img height="40" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d735f1e9-62bd-44bc-be34-d63d3cab9aab.png" alt = "Sandbox"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/wordpress.png" alt = "Wordpress"></code>
+
 
 ⭐ If you like my open source projects then </br>
     Nominate me to the Github Stars by clicking the link below 
