@@ -34,7 +34,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" width = "70px" alt="Mohit-Github" />
   </a>
     
-   <a href="https://discord.com/channels/@me/1022418738395488349" target="blank">
+   <a href="https://discordapp.com/users/iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width = "70px" alt="Mohit-Discord" />
   </a>
   
