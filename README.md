@@ -134,6 +134,8 @@
 <code><img height="40" src="https://img.icons8.com/color/48/gitlab.png" alt = "Gitlab"></code>
 <code><img height="40" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d735f1e9-62bd-44bc-be34-d63d3cab9aab.png" alt = "Sandbox"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/wordpress.png" alt = "Wordpress"></code>
+<code><img height= "40" src= "https://img.icons8.com/color/48/power-bi.png" alt="Power BI"></code>
+
 
 
 ⭐ If you like my open source projects then </br>
