@@ -54,10 +54,6 @@
     <img src="https://iammohit23.netlify.app/images/portfolio2.png" width = "70px" alt="Mohit-Portfolio" />
   </a>
   
-   <a href="https://drive.google.com/file/d/1BzHskBp0l4FRVVcobzGjMoJJ1DVvZ0IP/view?usp=sharing" target="blank">
-    <img src="https://iammohit23.netlify.app/images/resume.png" width = "70px" alt="Mohit-Resume" />
-  </a>
-  
    <a href="https://www.hackerrank.com/iammohit23" target="blank">
     <img src="https://iammohit23.netlify.app/images/hacker-rank.png" width = "70px" alt="Mohit-Hacker-rank" />
   </a>
