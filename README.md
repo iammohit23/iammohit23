@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/bubbles/2x/dribbble.png" width = "70px" alt="Mohit-Dribble" />
   </a>
   
-   <a href="https://github.com/Mohits-Org" target="blank">
+   <a href="https://github.com/codecannibals" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" width = "70px" alt="Mohit-Github" />
   </a>
     
@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" width = "70px" alt="Mohit-Youtube" />
   </a>
   
-   <a href="https://www.quora.com/profile/Mohit-Pandey-223" target="blank">
+   <a href="https://www.quora.com/profile/iammohit23" target="blank">
     <img src="https://iammohit23.netlify.app/images/quora.png" width = "70px" alt="Mohit-Quora" />
   </a>
   
@@ -50,7 +50,7 @@
     <img src="https://img.icons8.com/bubbles/512/codechef.png" width = "70px" alt="Mohit-Codechef" />
   </a>
   
-  <a href="https://iammohit23.netlify.app" target="blank">
+  <a href="https://iammohit23.online" target="blank">
     <img src="https://iammohit23.netlify.app/images/portfolio2.png" width = "70px" alt="Mohit-Portfolio" />
   </a>
   
