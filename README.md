@@ -92,7 +92,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammohit23&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iammohit23&theme=github&utcOffset=8)
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamMohit23)
+![](https://komarev.com/ghpvc/?username=iammohit23)
 
 
   ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit](#), 
