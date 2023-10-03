@@ -27,7 +27,7 @@
   </a>
   
    <a href="https://dribbble.com/iammohit23" target="blank">
-    <img src="https://img.icons8.com/bubbles/2x/dribbble.png" width = "70px" alt="Mohit-Dribble" />
+    <img src="https://img.icons8.com/bubbles/2x/dribbble.png" width = "70px" alt="Mohit-Dribbble" />
   </a>
   
    <a href="https://github.com/codecannibals" target="blank">
