@@ -10,7 +10,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width = "70px" alt="Mohit-Instagram" />
   </a>
   
-  <a href="https://snapchat.com/add/iammohit_23" target="blank">
+  <a href="https://snapchat.com/add/mohitpandey.23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/snapchat.png" width = "70px" alt="Mohit-Snapchat" />
   </a>
   
