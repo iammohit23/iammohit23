@@ -78,7 +78,7 @@
     <img src="https://img.icons8.com/bubbles/512/h.png" width = "70px" alt="Mohit-Hashnode" />
   </a>
   
-   <a href="https://t.me/iammohit_23" target="blank">
+   <a href="https://t.me/iammohitpandey" target="blank">
     <img src="https://img.icons8.com/bubbles/2x/telegram-app.png" width = "70px" alt="Mohit-Telegram" />
   </a>
         
