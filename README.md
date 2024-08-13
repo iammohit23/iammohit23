@@ -6,12 +6,8 @@
     <img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" width = "70px" alt="Mohit-Twitter" />
   </a>
   
-  <a href="https://instagram.com/iammohit_23" target="blank">
+  <a href="https://instagram.com/iammohit23" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width = "70px" alt="Mohit-Instagram" />
-  </a>
-  
-  <a href="https://www.kooapp.com/profile/iammohit23" target="blank">
-    <img src="https://www.kooapp.com/assets/2d634360.svg" width = "40px" alt="Mohit-Koo" />
   </a>
   
   <a href="https://snapchat.com/add/iammohit_23" target="blank">
