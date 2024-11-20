@@ -91,7 +91,7 @@
 ![](https://komarev.com/ghpvc/?username=iammohit23)
 
 
-  ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit](#), 
+  ### Hi,<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">--> I'm [Mohit Pandey](#), 
  
 ⭐ A graduated in BCA from Smt. Kashibai Navale College of Commerce, Pune, Maharastra, India.
  
